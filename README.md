@@ -1,19 +1,9 @@
 # Brain-Tumor-Detection-Using-Honey-Bee
 Detect the tumor using morphological operation and honey bee algorithm with Fuzzy C-means (FCM) clustering. 
 
-
-Project Title : Brain Tumor Detection Using Honey Bee
-Submitted by: DEEPTA B S 1PI12IS031
-			  HARSHITHA SHREEKA 1PI12IS033
-              HARSHITHA S S 1PI12IS034
-Folders :
-Complete executable code of the project.
-Project report document
-Final project presentation PPT
-
 Source code execution:
 
-Ui has a button on click of which an image can be uploaded, here the user uploads an image, which is either in jpg, bmp, png or tiff. Python library is used to convert image to 2 dimensional matrix which can be fed to our algorithms.
+UI has a button on click of which an image can be uploaded, here the user uploads an image, which is either in jpg, bmp, png or tiff. Python library is used to convert image to 2 dimensional matrix which can be fed to our algorithms.
 
 Preprocessing Button
 
